@@ -33,3 +33,6 @@ commandline命令传入的方式调用。<br/>
 	
 	>sqlzip.exe -u zipfile _ mypassword
 -----
+
+详情见测试截图:<br/>
+![image](https://github.com/robinsoon/sqlzip/blob/master/cmdrun.png)
